@@ -1,0 +1,29 @@
+STRINGTABLE XPTMgen
+{
+	XPTMgen	"PTM Creator";
+	
+	XPTG_FILE_NAME "PTM File";
+	
+	XPTG_PART	"Channels";
+	
+	PRT_0		"Gen. Illuminated Color";
+	PRT_1		"Gen. Lightening";
+	PRT_2		"Gen. RGB";
+	PRT_3		"Gen. Coff 012";
+	PRT_4		"Gen. Coff 345";
+	PRT_5		"Gen. Normals";
+	PRT_6		"Calc. Normals";
+	
+	XPTG_SCALE_012	"Scale 012";	
+	XPTG_SCALE_345	"Scale 345";		
+
+	XPTG_BIAS_012	"Bias 012";	
+	XPTG_BIAS_345	"Bias 345";
+	
+	XPTG_SCALE_BIAS_MD	"Scale Bias Modus";
+		SBM_0		"User";
+		SBM_1		"Auto";
+		SBM_2		"Default";
+		
+	XPTG_RECALCULATE		"ReCalculate";
+}

@@ -1,0 +1,8 @@
+STRINGTABLE TPTMTag
+{
+	TPTMTag	"re PTM Tag";
+	
+	PTAG_LIGHTS_COUNT	"Directions Count";
+	PTAG_FILE_NAME		"Files Name";
+	PTAG_FILE_EXT		"Files Type";
+}

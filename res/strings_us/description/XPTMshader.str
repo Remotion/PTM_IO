@@ -1,0 +1,26 @@
+STRINGTABLE XPTMshader
+{
+	XPTMshader	"PTMshader";
+	
+	XPTM_FILE_NAME "PTM File";
+	
+	XPTM_PART	"Channels";
+	
+	PRT_0		"All (Lightening)";
+	PRT_1		"Color RGB";
+	PRT_2		"Coefficients 012";
+	PRT_3		"Coefficients 345";
+	PRT_4		"Calculated Normal Map";
+	
+	PRT_5		"Gen Lightening";
+	PRT_6		"Gen RGB";
+	PRT_7		"Gen Coff 012";
+	PRT_8		"Gen Coff 345";
+	PRT_9		"Gen Normals";
+	
+	XPTM_SCALE_012	"Scale 012";	
+	XPTM_SCALE_345	"Scale 345";		
+
+	XPTM_BIAS_012	"Bias 012";	
+	XPTM_BIAS_345	"Bias 345";
+}

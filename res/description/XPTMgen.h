@@ -1,0 +1,39 @@
+#ifndef _XPTMgen_H_
+#define _XPTMgen_H_
+
+
+enum
+{
+	XPTG_FILE_NAME = 1000,
+	XPTG_PART      = 1001,
+		PRT_0 = 0,
+		PRT_1 = 1,
+		PRT_2 = 2,
+		PRT_3 = 3,
+		PRT_4 = 4,
+		PRT_5 = 5,
+		PRT_6 = 6,
+		PRT_7 = 7,
+		PRT_8 = 8,
+		PRT_9 = 9,
+
+	XPTG_FILE_PTM	= 1005,
+	XPTG_FILE_RGB	= 1006,
+	XPTG_FILE_A012	= 1007,
+	XPTG_FILE_A345	= 1008,
+
+	XPTG_SCALE_012	= 1010,
+	XPTG_SCALE_345	= 1011,
+
+	XPTG_BIAS_012	= 1012,
+	XPTG_BIAS_345	= 1013,
+
+	XPTG_SCALE_BIAS_MD	= 1020,
+		SBM_0 = 0,
+		SBM_1 = 1,
+		SBM_2 = 2,
+
+	XPTG_RECALCULATE	= 1100,
+};
+
+#endif

@@ -1,0 +1,12 @@
+
+// C4D-StringResource DE
+// Identifier	Text
+
+STRINGTABLE
+{
+	IDS_PTM				"re PTM_Io 0.1";
+	IDS_PTMGEN			"re PTM Creator";
+	IDS_PTMSHADER		"re PTM Shader";
+	IDS_PTMTAG			"re PTM Tag";
+	IDS_PTMSHADER3I			"PTMShader3i";
+}
